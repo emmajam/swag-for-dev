@@ -32,9 +32,9 @@ Feel free to send a PR! :smile:
 
 ![](https://devrant.com/static/devrant/img/stickers-collection3.png)
 
-## Digital Ocean
+~## Digital Ocean~
 
-- Completing this short survey will get you a Sammy sticker pack: [http://do.co/currents-survey](http://do.co/currents-survey)
+~- Completing this short survey will get you a Sammy sticker pack: [http://do.co/currents-survey](http://do.co/currents-survey)~
 
 ![](https://pbs.twimg.com/media/ClLKoRDWEAAvgqK.jpg)
 
